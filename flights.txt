@@ -1,0 +1,5 @@
+30,Islamabad,Lahore,Airblue,12:00,13:30,1.5,12000,On-Time
+40,Multan,Lahore,AirSail,10:00,11:30,1.5,9000,On-Time
+65,Karachi,Peshawar,PIA,18:00,19:30,1.5,13000,On-Time
+70,Karachi,Islamabad,SereneAir,14:00,15:30,1.5,15000,On-Time
+80,Karachi,Lahore,Airblue,20:00,21:00,1,14000,On-Time
